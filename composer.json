@@ -1,0 +1,8 @@
+{
+    "name": "plpackagist/hasher_plx",
+    "description": "md5",
+    "license": "mit",
+    "require": {
+        "filp/whoops": "^2.1"
+    }
+}
